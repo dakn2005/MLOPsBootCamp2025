@@ -2,6 +2,7 @@ import os
 import pickle
 import click
 import pandas as pd
+import numpy as np
 
 from sklearn.feature_extraction import DictVectorizer
 
@@ -68,7 +69,7 @@ def run_data_prep(raw_data_path: str, dest_path: str, dataset: str = "green"):
     y_test = df_test[target].values
 
     # Fit the DictVectorizer and preprocess data
-    dv = DictVectorizer()
+    dv = DictVectorizer(dtype=np.int8)
     X_train, dv = preprocess(df_train, dv, fit_dv=True)
     X_val, _ = preprocess(df_val, dv, fit_dv=False)
     X_test, _ = preprocess(df_test, dv, fit_dv=False)
