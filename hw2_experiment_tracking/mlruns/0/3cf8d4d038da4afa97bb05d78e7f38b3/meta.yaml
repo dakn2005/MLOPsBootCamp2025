@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daudi/Documents/Daudi/Projects/Data%20Engineering/MLOPs/HWs/hw2_experiment_tracking/mlruns/0/3cf8d4d038da4afa97bb05d78e7f38b3/artifacts
+end_time: 1748275553738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cf8d4d038da4afa97bb05d78e7f38b3
+run_name: salty-hawk-63
+run_uuid: 3cf8d4d038da4afa97bb05d78e7f38b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748275553715
+status: 4
+tags: []
+user_id: daudi

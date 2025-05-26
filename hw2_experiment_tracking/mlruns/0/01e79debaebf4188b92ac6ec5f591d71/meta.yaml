@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daudi/Documents/Daudi/Projects/Data%20Engineering/MLOPs/HWs/hw2_experiment_tracking/mlruns/0/01e79debaebf4188b92ac6ec5f591d71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01e79debaebf4188b92ac6ec5f591d71
+run_name: big-zebra-691
+run_uuid: 01e79debaebf4188b92ac6ec5f591d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748276252994
+status: 1
+tags: []
+user_id: daudi

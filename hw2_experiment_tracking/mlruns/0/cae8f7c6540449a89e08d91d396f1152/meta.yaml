@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daudi/Documents/Daudi/Projects/Data%20Engineering/MLOPs/HWs/hw2_experiment_tracking/mlruns/0/cae8f7c6540449a89e08d91d396f1152/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cae8f7c6540449a89e08d91d396f1152
+run_name: bright-toad-782
+run_uuid: cae8f7c6540449a89e08d91d396f1152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277260619
+status: 1
+tags: []
+user_id: daudi
