@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daudi/Documents/Daudi/Projects/Data%20Engineering/MLOPs/HWs/hw2_experiment_tracking/mlruns/0/9c09985b7d5349a5bd8f5f9028c59218/artifacts
+end_time: 1748284769301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c09985b7d5349a5bd8f5f9028c59218
+run_name: valuable-pug-190
+run_uuid: 9c09985b7d5349a5bd8f5f9028c59218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748283887562
+status: 3
+tags: []
+user_id: codespace

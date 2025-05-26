@@ -21,7 +21,7 @@ def load_pickle(filename: str):
     help="Location where the processed NYC taxi trip data was saved"
 )
 def run_train(data_path: str):
-    mlflow.sklearn.autolog()
+    mlflow.autolog()
 
     with mlflow.start_run():
 
@@ -43,7 +43,7 @@ def run_train(data_path: str):
 
         mlflow.log_metric("rmse", rmse)
 
-        mlflow.sklearn.log_model(rf, artifact_path="models_mlflow")
+        # mlflow.sklearn.log_model(rf, artifact_path="models_mlflow")
 
 
 if __name__ == '__main__':
